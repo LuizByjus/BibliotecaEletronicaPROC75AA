@@ -1,2 +1,2 @@
-# Biblioteca Eletrônica [Professora]
-Código para a Atividade da Professora
+# Biblioteca Eletrônica [Aluno]
+Código para a Atividade do Aluno
